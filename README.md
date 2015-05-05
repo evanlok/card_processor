@@ -1,5 +1,5 @@
 # CardProcessor
-[![Code Climate](https://codeclimate.com/github/evanlok/card_processor/badges/gpa.svg)](https://codeclimate.com/github/evanlok/card_processor)
+[![Build Status](https://travis-ci.org/evanlok/card_processor.svg)](https://travis-ci.org/evanlok/card_processor) [![Code Climate](https://codeclimate.com/github/evanlok/card_processor/badges/gpa.svg)](https://codeclimate.com/github/evanlok/card_processor)
 
 ## Installation
 
