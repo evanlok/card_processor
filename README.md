@@ -1,9 +1,10 @@
 # CardProcessor
+[![Code Climate](https://codeclimate.com/github/evanlok/card_processor/badges/gpa.svg)](https://codeclimate.com/github/evanlok/card_processor)
 
 ## Installation
 
 ```
-$ git clone https://github.com/evanlok/card_processor
+$ git clone git@github.com:evanlok/card_processor.git
 ```
 
 ## Usage
